@@ -1,10 +1,10 @@
-//大聪明友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
+//友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，自用，如有冒犯请联系删除
 //关注公众号【应用多多】回复“接口”，获取最新接口
 {
   "sites": [
     {
       "key":"js豆瓣",
-      "name":"🏮公众号：多多应用汇，长期维护免费接口，切勿贩卖🏮",
+      "name":"🏮自行维护免费接口，切勿贩卖🏮",
       "type":3,
       "api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
       "ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js",
@@ -2251,7 +2251,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHMlM0EveXlkc3lzLnRvcC9kdW8vdHh0L20udHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly93d3cueXlkc3lzLnRvcC9kdW8vdHh0L20udHh0"
           ]
         }
       ]
